@@ -1,7 +1,7 @@
 # Enterprise Territory management
 
 ## Maps
-- [maps](https://www.salesforce.com/content/dam/web/en_us/www/images/sales-cloud/maps/device-section-2-territory-mapping.png)
+- ![maps](https://www.salesforce.com/content/dam/web/en_us/www/images/sales-cloud/maps/device-section-2-territory-mapping.png)
 
 - Visualizing data
 	- Save hours in planning, administration, and drive time with route optimization and auto-logging of activity data.
